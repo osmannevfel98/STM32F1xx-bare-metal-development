@@ -394,6 +394,11 @@
               <FileType>5</FileType>
               <FilePath>.\stm32f100xx.h</FilePath>
             </File>
+            <File>
+              <FileName>stm32f100xx.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\stm32f100xx.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
